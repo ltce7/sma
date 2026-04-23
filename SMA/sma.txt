@@ -45,3 +45,5 @@
     
     # Experiment 17: Competitor Analysis
     fig17 = competitor_analysis()
+    
+    plt.close()
